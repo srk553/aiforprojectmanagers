@@ -1,5 +1,43 @@
 # AI for Project Managers
 
+> **Created & Curated by:** Sharath Kumar R
+
+#### ☁️ Cloud & Infrastructure Expertise
+**Cloud Platforms:**
+- **AWS (Amazon Web Services)** - 90% proficiency
+- **Microsoft Azure** - 90% proficiency  
+- **OCI (Oracle Cloud Infrastructure)** - 80% proficiency
+
+**Infrastructure & DevOps:**
+- Linux Operating Systems
+- Docker & Containerization
+- Kubernetes Orchestration - 80% proficiency
+- Ansible Automation
+- Data Center Operations
+- Git Version Control
+
+---
+
+#### 🔐 Security & Identity Management
+- **IGA (Identity Governance & Administration)** - 90% proficiency
+- **PAM (Privileged Access Management)** - 90% proficiency
+- Enterprise Security Frameworks
+
+---
+
+#### 💻 Programming & Development
+- **Python** - 80% proficiency
+- **React/Angular** - 75% proficiency
+- Web Development & UI/UX
+
+---
+
+####  Networking
+- **Cisco** Networking Hardware - 90% proficiency
+- **Juniper** Networks (JNCIA Certified)
+- Network Architecture & Design
+
+
 A comprehensive collection of AI-powered project management templates, guides, and traceability maps designed to streamline project delivery across all phases.
 
 ![Traceability Map](traceability-map.svg)
